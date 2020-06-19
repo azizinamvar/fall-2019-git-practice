@@ -1,4 +1,5 @@
 public class SecondClass {
-    //Imads chenge one
-
+    public static void main(String[] args) {
+        System.out.println("hi every one");
+    }
 }
